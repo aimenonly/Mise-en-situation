@@ -20,7 +20,7 @@ Here's an overview of the project structure:
 
 /data ***Contains access details (hostname, username, password, etc.) and other reusable variables***
 
-/reports ***JSON and Markdown files for test results***
+/reports ***html files for test results***
 
 /tests ***All test cases***
 
