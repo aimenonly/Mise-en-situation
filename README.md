@@ -1,6 +1,6 @@
 # Automated Test Suite
 
-This is the automated test suite repo. It uses **Pytest** to run tests and generates **JSON** and **Markdown** reports.
+This is the automated test suite repo. It runs actually 3 test cases and generate an html report.
 
 
 ## Table of Contents
