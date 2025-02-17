@@ -39,7 +39,7 @@ Before running the test suite, ensure that the following dependencies are instal
 1. **Python 3.x**
 2. **Packages**:
    - Paramiko
-   - SCP
+   - pytest-html
    - Pytest
 
 ### Installation
